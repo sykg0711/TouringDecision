@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">今日の目的</string>
+    <string name="title_activity_touring">今日の目的地</string>
+
+    <!--Strings for Drawer -->
+    <string name="drawerTitle">こんにちは</string>
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
+    <string name="menu4">menu4</string>
+
+</resources>
